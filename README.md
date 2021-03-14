@@ -1,7 +1,7 @@
-dcomp-abntex2
+UNIFUNEC-abntex2
 =========================
 
 
 # O projeto agora se encontra em novo endereço:
 
-https://github.com/DCOMP-UFS/abntex2-DCOMP-UFS
+https://github.com/estremeot/tcc_unifunec
